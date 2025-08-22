@@ -2,7 +2,7 @@
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/mdfnam/project_title_6 .
+git clone https://github.com/mdfnam/instant-exam .
 
 # Step 2: Install the necessary dependencies.
 npm i
